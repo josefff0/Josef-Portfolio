@@ -1,4 +1,4 @@
-# Gångbro i stål/betong
+# Gångbro i stål och betong
 
 Projekt med en 8–10 m gångbro över ett dike, med stålbalkar och betongpelare.  
 

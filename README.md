@@ -5,7 +5,7 @@ Förstaårsstudent på Byggingenjörsprogrammet vid Högskolan Dalarna. Denna re
 ## Projekt
 
 1. [Småhus i Revit](Smahus-Revit/README.md) – plan, snitt, 3D render
-2. [Gångbro i stål/betong](Gångbro-Projekt,README.md) – enkel lastanalys
+2. [Gångbro i stål,betong](Gångbro-Projekt/README.md) – enkel lastanalys
 3. [Energieffektivt flerfamiljshus](Flerfamiljshus-Projekt/README.md) – hållbar design
 4. [Infrastruktur / gångväg i Borlänge](Infrastruktur-Projekt/README.md) – topografi och dränering
 
